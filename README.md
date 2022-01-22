@@ -16,4 +16,4 @@
 - 💻 HTML/CSS
 - 🖥️ Javascript
 ---
-[![wotanut's GitHub stats](https://github-readme-stats.vercel.app/api?username=OfficialSpy&theme=radical&show_icons=true)](https://github.com/OfficialSpy/github-readme-stats)
+[![OfficialSpy GitHub stats](https://github-readme-stats.vercel.app/api?username=OfficialSpy&theme=radical&show_icons=true)](https://github.com/OfficialSpy/github-readme-stats)
