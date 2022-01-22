@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**OfficialSpy/officialspy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Discord Bot Developer and Web Developer
 
-Here are some ideas to get you started:
+- I’m currently working on MHR and Norbit
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Twitter](https://www.twitter.com/OfficialSpy2)
+
+<!-- ![Discord](https://discord.c99.nl/widget/theme-3/725945760629129277.png) -->
+<a href="https://discord.com/users/<676817075381207053>">
+<img src="https://discord.c99.nl/widget/theme-2/676817075381207053.png" alt="Discord"/>
+</a>
+
+### Languages I Know:
+- 🐍 Python
+- 💻 HTML/CSS
+- 🖥️ Javascript
+---
+[![wotanut's GitHub stats](https://github-readme-stats.vercel.app/api?username=OfficialSpy&theme=radical&show_icons=true)](https://github.com/OfficialSpy/github-readme-stats)
