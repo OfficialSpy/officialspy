@@ -6,11 +6,6 @@
 
 [Twitter](https://www.twitter.com/OfficialSpy2)
 
-<!-- ![Discord](https://discord.c99.nl/widget/theme-3/725945760629129277.png) -->
-<a href="https://discord.com/users/<676817075381207053>">
-<img src="https://discord.c99.nl/widget/theme-3/676817075381207053.png" alt="Discord"/>
-</a>
-
 ### Languages I Know:
 - 🐍 Python
 - 💻 HTML/CSS
