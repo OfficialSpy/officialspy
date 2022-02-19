@@ -12,8 +12,7 @@
   
   ##
  
-<div> 
-  <img src="https://img.shields.io/badge/-Nullified%233306-5663F7?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+<div>
 
   ![](https://github.com/OfficialSpy/OfficialSpy/blob/output/github-contribution-grid-snake.svg)
  
