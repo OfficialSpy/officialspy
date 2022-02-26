@@ -16,6 +16,7 @@
   <img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
  </div>
+  
   <div style="display: inline_block"><br>
     <img align="center" alt="JetBrains" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/jetbrains/jetbrains-original.svg">
   <img align="center" alt="Visual Studio Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
@@ -23,11 +24,8 @@
     <img align="center" alt="IntelliJ" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/intellij/intellij-original.svg">
  </div>
   
-  ##
- 
-<div>
-
-  ![](https://github.com/OfficialSpy/OfficialSpy/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+  <div style="display: inline_block"><br>
+    <img align="center" alt="Google" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/google/google-original.svg">
+    <img align="center" alt="FireFox" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/firefox/firefox-original.svg">
+ </div>
 
