@@ -23,9 +23,3 @@
     <img align="center" alt="Pycharm" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/pycharm/pycharm-original.svg">
     <img align="center" alt="IntelliJ" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/intellij/intellij-original.svg">
  </div>
-  
-  <div style="display: inline_block"><br>
-    <img align="center" alt="Google" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/google/google-original.svg">
-    <img align="center" alt="FireFox" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/firefox/firefox-original.svg">
- </div>
-
