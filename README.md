@@ -15,10 +15,10 @@
   <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="npm" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/npm/npm-original-wordmark.svg">
  </div>
   
   <div style="display: inline_block"><br>
-    <img align="center" alt="JetBrains" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/jetbrains/jetbrains-original.svg">
   <img align="center" alt="Visual Studio Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
     <img align="center" alt="Pycharm" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/pycharm/pycharm-original.svg">
     <img align="center" alt="IntelliJ" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/intellij/intellij-original.svg">
