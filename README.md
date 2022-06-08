@@ -1,5 +1,5 @@
 # Welcome Everyone!, I'm OfficialSpy
-<h3><br>🤖 Discord Bot Developer </br><br>🌐 Web Developer </br><br> 🎨 Graphic Designer </br></h3>
+<h3>- 🤖 Discord Bot Developer<br>- 🌐 Web Developer<br>- 🎨 Graphic Designer </br></h3>
 <p><a target="_blank"><img src="https://media.tenor.com/images/03726cf974172491d5a348d0ac25125b/tenor.gif" style="max-width:100%;" height="160px" align="right"> </a></p>
 <h2> 📚 About Me </h2>
 <ul>
