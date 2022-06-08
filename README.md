@@ -1,5 +1,5 @@
 # Welcome Everyone!, I'm OfficialSpy
-<h3> 📱 Discord Bot Developer, Web Developer and Graphic Designer</h3>
+<h3>🤖Discord Bot Developer <br>🌐Web Developer </br><br> 🎨Graphic Designer </br></h3>
 <p><a target="_blank"><img src="https://media.tenor.com/images/03726cf974172491d5a348d0ac25125b/tenor.gif" style="max-width:100%;" height="160px" align="right"> </a></p>
 <h2> 📚 About Me </h2>
 <ul>
@@ -17,10 +17,7 @@
   <a href="https://github.com/OfficialSpy"><img src="https://camo.githubusercontent.com/8bfbdd7d64ac7d14fe465cda9b1d5bb1ea174cc2d2ad19d3187adff2e3b5da13/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769746875622d3130303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" alt="GitHub" data-canonical-src="https://img.shields.io/badge/Github-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white" style="max-width:100%;"></a>
 </p>
 
-<h2> 🌟My Stats </h2>
-
-![OfficialSpy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OfficialSpy&show_icons=true&theme=dark)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OfficialSpy&layout=compact&theme=dark)
+<h2> 👾Languages </h2>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
@@ -32,7 +29,11 @@
   <img align="center" alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/python/python-original.svg">
   <img align="center" alt="CSharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/csharp/csharp-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="npm" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/npm/npm-original-wordmark.svg">
  </div>
+
+<h2> 🌟My Stats </h2>
+
+![OfficialSpy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OfficialSpy&show_icons=true&theme=dark)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OfficialSpy&layout=compact&theme=dark)
+
+
