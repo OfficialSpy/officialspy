@@ -5,7 +5,7 @@
 <ul>
   <li> 🤟 I love all things related to the 💻Computers, ⚙Technology, 🧪Science and 🌍Geography</li>
   <li> 💾 2 Years of experience</li>
-  <li> 🎖 Life goal: Become a Pilot✈️👨‍✈️ or a Programmer👨‍💻</li>
+  <li> 🎖 Life goal: Become a Pilot✈️, a Programmer👨‍💻 or a Firefighter🚒</li>
 </ul>
 
 <h2> 👩‍💻 Social Media </h2>
